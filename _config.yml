@@ -17,3 +17,8 @@ github_username: rdunlop
 
 # Build settings
 markdown: kramdown
+collections:
+  guides:
+    output: true
+  event_guides:
+    output: true
