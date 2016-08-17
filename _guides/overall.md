@@ -153,6 +153,8 @@ The program book is a very important part of a convention. It should be a good r
     
     * Are ID numbers required to be worn during the competitions (in some competitions an ID on the front & back are required (eg. Road Racing), in others, ID numbers are not required (e.g. Freestyle))
 
+    * Are competitors allowed to change categories at the course? (e.g. Can someone who signed up for Beginner Downhill elect to compete in the Advanced Downhill once they see the course, the morning of competition?) 
+    
 * Medical contact information
 
     * What number(s) to call?
