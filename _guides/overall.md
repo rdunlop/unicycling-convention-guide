@@ -150,6 +150,8 @@ The program book is a very important part of a convention. It should be a good r
 * A summary of rules
 
     * Safety gear requirements for each competition
+    
+    * Are ID numbers required to be worn during the competitions (in some competitions an ID on the front & back are required (eg. Road Racing), in others, ID numbers are not required (e.g. Freestyle))
 
 * Medical contact information
 
