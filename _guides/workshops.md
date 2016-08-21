@@ -14,3 +14,5 @@ title:  "Workshops"
 * Do you need a microphone/sound system?
 
 * How will the workshop schedule be publicized? Will there be workshops added after the convention starts?
+
+* Do you have a backup location in case of weather?
