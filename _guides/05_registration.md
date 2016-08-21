@@ -3,7 +3,7 @@ layout: default
 title:  "On-Site Registration"
 ---
 
-Registration
+# Registration
 
 * Need to have volunteers, and know that you have enough
 

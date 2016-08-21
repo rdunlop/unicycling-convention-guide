@@ -3,7 +3,7 @@ layout: default
 title:  "Workshops"
 ---
 
-Workshops/meetings
+# Workshops/meetings
 
 * Where will they be held?
 

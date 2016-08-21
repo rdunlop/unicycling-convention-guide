@@ -8,7 +8,7 @@ title:  "Director Responsibilities"
 You should read through the guide for your specific event, as well as the "Overall" guide.
 
 + Before the event
-    # Visualize the day from start to finish - Understand staging and flow of competitors, volunteers, unicycles. Review plan with Director of Competitions. Discuss and identify places to work with Event Host.
+    + Visualize the day from start to finish - Understand staging and flow of competitors, volunteers, unicycles. Review plan with Director of Competitions. Discuss and identify places to work with Event Host.
     + Where/when
     + Exact schedule
     + Exact location (parking lot, start line, bathrooms…)

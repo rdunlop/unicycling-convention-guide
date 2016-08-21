@@ -5,6 +5,12 @@ title:  "Muni"
 
 # Muni
 
+## Before the competition
+
+* A muni course assistant (or director's designee) must ensure by riding a mountain bike or unicycle or walk the entire course from start to finish and ensure that the course is ready and unambiguous for whomever is racing it (e.g. for an average 8-yr old), if it is a "beginner" course.
+
+## Other considerations
+
 * Do you have garbage bags/cans for garbage (lunches)
 
 * Have you set up the course to be sufficiently long?
@@ -13,7 +19,7 @@ title:  "Muni"
 
 * When do the busses run?
 
-* Course Instructions   
+* Course Instructions
 
     * Ensure that the Start Line Volunteers know that they must remain open until the end of the Scheduled time (even if there are no competitors in line to run the course, the course should stay open until the end of the scheduled time).
 

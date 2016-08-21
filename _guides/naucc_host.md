@@ -3,6 +3,8 @@ layout: default
 title:  "NAUCC Host"
 ---
 
+# Hosting a NAUCC
+
 The North American Unicycling Convention and Championships  (NAUCC) is an annual week-long event held in the summer, typically July, to promote unicycling.  This guide has been created to assist with planning, promoting, and hosting.  It is not a substitute for the rulebook.  Nor is it the intent of the guide to create a cookie-cutter, one-size-fits-all set of requirements.  Each venue is distinct and each set of organizers will undoubtedly have a better approach.  Just as the world of unicycling has changed over time, so will this guide.  The best events are those in which hosts are able to tap into their creativity and make a unique, fulfilling experience for everyone.
 
 A quote from a number of years ago still resonates today:

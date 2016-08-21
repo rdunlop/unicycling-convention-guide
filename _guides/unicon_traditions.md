@@ -3,7 +3,7 @@ layout: default
 title:  "Unicon Traditions"
 ---
 
-Unicon
+# Unicon Traditions
 
 * There are some traditional aspects of Unicon:
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Overall Convention Notes"
+title:  "Overall Convention Questions"
 ---
 
-Overall:
+# Overall Convention Questions
 
 * There should be a "protest/problem" form, which has
 
@@ -19,11 +19,12 @@ Overall:
 
     * When was it resolved?
 
-* Medics
+* Medical
 
     * Medical staff/ambulance should be on site for certain events
 
         * It should not start without them present
+    * There should be a well-stocked first-aid kit available at the Info Point
 
 * Internet access
 
@@ -47,7 +48,7 @@ Overall:
 
         * If there are venue changes.
 
-Supplies needed
+# Supplies needed
 
 * Large (manilla-style) Envelopes, so that we can put results into the envelope
 
@@ -68,14 +69,9 @@ Supplies needed
         * Recommend that the following roles have phones:
 
             * Main organizers
-
-            * Freestyle director
-
             * Data Guru
-
-            * Trials Director
-
             * Info Point
+            * Any Director whose event is "away" from the main home-base location (e.g. Road Racing, Muni, Cyclocross)
 
 * Large Envelopes or bags of some sort for registration
 
@@ -93,7 +89,7 @@ Supplies needed
 
     * We often put these in envelopes for each registrant, but sometimes we also get sponsored bags instead (like Trader Joe’s Bags, etc)
 
-Creating a program book:
+## Creating a program book
 
 The program book is a very important part of a convention. It should be a good reference for the following important things:
 
@@ -150,11 +146,11 @@ The program book is a very important part of a convention. It should be a good r
 * A summary of rules
 
     * Safety gear requirements for each competition
-    
+
     * Are ID numbers required to be worn during the competitions (in some competitions an ID on the front & back are required (eg. Road Racing), in others, ID numbers are not required (e.g. Freestyle))
 
-    * Are competitors allowed to change categories at the course? (e.g. Can someone who signed up for Beginner Downhill elect to compete in the Advanced Downhill once they see the course, the morning of competition?) 
-    
+    * Are competitors allowed to change categories at the course? (e.g. Can someone who signed up for Beginner Downhill elect to compete in the Advanced Downhill once they see the course, the morning of competition?)
+
 * Medical contact information
 
     * What number(s) to call?
@@ -163,7 +159,7 @@ The program book is a very important part of a convention. It should be a good r
 
     * Is there first-aid available at any of the events? At the info point?
 
-Chartered Busses:
+## Chartered Buses
 
 * For some events, chartered busses are the only way to get the competitors where they need to go
 
@@ -211,7 +207,7 @@ Info Point
 
 * Any changes to the schedule, locations, or events should be posted at the info point as soon as possible.
 
-Volunteers
+# Volunteers
 
 * If an event has volunteers which are required for a long time (3+ hours), you should ensure that they have water and the ability to go to the bathroom/get a replacement
 

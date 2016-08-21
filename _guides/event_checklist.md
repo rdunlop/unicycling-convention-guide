@@ -3,7 +3,7 @@ layout: default
 title:  "Event Checklist"
 ---
 
-# Event checklist:
+# Event checklist
 
 For every event, some questions should be answered.
 

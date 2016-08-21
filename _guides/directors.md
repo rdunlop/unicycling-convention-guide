@@ -3,7 +3,13 @@ layout: default
 title:  "Directors"
 ---
 
-Directors
+# Directors
+
+Directors are the people responsible for ensuring that a set of competitions run correctly and smoothly. They are not necessarily the chief judge or an expert competitor in this type of unicycling, but they should be familiar with the competition type. They are responsible for ensuring that they have all of the necessary roles filled and that the competitions run smoothly.
+
+It is the director's job to be the ultimate decision maker for questions about a competition/competition result. They are encouraged to solicit advise from other people/organizers, but ultimately it is their decision.
+
+**Note** You cannot directly contradict what is written in the rulebook, and thus must be aware of the relevant rulebook sections.
 
 * The director for each event is critical to its smooth functioning
 

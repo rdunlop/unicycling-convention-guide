@@ -3,9 +3,10 @@ layout: default
 title:  "Opening Ceremonies"
 ---
 
-Opening Ceremony/Parade
+# Opening Ceremony/Parade
 
 * Who will be speaking?
+    - Do they know that they are expected to say a few words?
 
 * Do the directors know what is expected of them?
 

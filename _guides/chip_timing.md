@@ -3,7 +3,9 @@ layout: default
 title:  "Chip Timing"
 ---
 
-## Chip Timing
+# Chip Timing
+
+Using a electronic chip timer (with RFID chips and timing mats) is sometimes a very good option, depending on the event/venue.
 
 * Timing Provider must handle any issues
 
