@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: event_guide
 title:  "Muni"
 ---
 
-Muni:
+# Muni
 
 * Do you have garbage bags/cans for garbage (lunches)
 

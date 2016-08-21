@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: event_guide
 title:  "Hockey & Basketball"
 ---
 
-Hockey/Basketball
+# Hockey/Basketball
 
 * When will the teams be set?
 
 * Competitors want to know which days that they will be playing so that they can schedule going to other events/places.
 
     * When will the schedule with teams be set?
-
     * How will this be communicated with the competitors?
 
 * Playing on a concrete floor is not a good idea, as it has led to a number of broken bones at UNICON because it is so hard
@@ -20,9 +19,7 @@ Hockey/Basketball
     * We need to know who is playing on each team in order to:
 
         * properly award the correct people
-
         * Prevent non-competitors from playing on teams
-
         * Prevent competitors from playing on multiple teams
 
 * Ensure that the roster of each team is fully and accurately entered into the system.

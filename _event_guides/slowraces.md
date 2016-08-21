@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: event_guide
 title:  "Slow Races & Stillstand"
 ---
 
-Stillstand/Slowraces:
+# Stillstand/Slowraces
 
 * Many volunteers are required
 

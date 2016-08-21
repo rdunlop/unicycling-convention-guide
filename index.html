@@ -8,6 +8,14 @@ layout: default
 
   <p>Different aspects of a convention need different questions asked/answered. This collection of documents is an attempt to ask these various questions</p>
 
+  <h2>Goals</h2>
+
+  <ul>
+    <li>Provide a checklist for Convention Organizers, to ensure that they have reference for what they should be doing in advance</li>
+    <li>Provide a checklist for each Event Director, so that they can review it to ensure that they haven't forgotten to think about anything.</li>
+    <li>Provide a checklist for various other Roles, so that we can refer to it when giving instructions/communicating</li>
+  </ul>
+
   <h2>General Convention Guides</h2>
 
   <ul>
@@ -20,6 +28,14 @@ layout: default
 
   <ul>
     {% for my_page in site.event_guides %}
+      <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h2>Other Guides</h2>
+
+  <ul>
+    {% for my_page in site.other_guides %}
       <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
     {% endfor %}
   </ul>

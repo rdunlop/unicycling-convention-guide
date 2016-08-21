@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: event_guide
 title:  "High Jump/Long Jump"
 ---
 
-High Jump/Long Jump
+# High Jump/Long Jump
 
 * Do you have extension cables to reach to the desks
 

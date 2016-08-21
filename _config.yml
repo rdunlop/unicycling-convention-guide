@@ -22,3 +22,5 @@ collections:
     output: true
   event_guides:
     output: true
+  other_guides:
+    output: true

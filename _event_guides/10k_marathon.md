@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: event_guide
 title:  "10k/Marathon"
 ---
 
-10k
+# 10k
 
 * Where are the bathrooms?
 
 * Where can people leave backpacks during their race? (a secure area)
 
-Marathon
+# Marathon
 
 * Similar to the 10k
 
