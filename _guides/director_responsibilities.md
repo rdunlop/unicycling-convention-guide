@@ -12,6 +12,7 @@ You should read through the guide for your specific event, as well as the "Overa
     + Where/when
     + Exact schedule
     + Exact location (parking lot, start line, bathrooms…)
+        * If you have a practice area, please ensure that it is clearly marked, including signs which direct people to/from the main competition area to the practice area
     + Permit printed and in supplies
     + Lay of the land (door of entry/start line/course)
     + Where do competitors, unicycles, supporters go?
@@ -19,8 +20,14 @@ You should read through the guide for your specific event, as well as the "Overa
 + What equipment and supplies will you need?
     + Tents, tables, and chairs
     + Stuff for recording results (stopwatches, and batteries, copies of rulebook sections for judges, etc)
+    + Radios for communicating Start/Finish judges, if needed.
     + Music/amplification
+        * If using microphones/speakers, ensure that the cables are long enough to cover the area. (we want the speakers to be on both sides of the performance area, and allow the microphone user to be in the middle)
     + Power
+    + Copy of the competition rules
+        * Having enough copies for each of the starting areas is ideal.
+    * If you have multiple start locations (e.g. Muni uphill/downhill) please print a large-format map of the venue, and add indicators for the various start/finish/congregation positions.
+    * Signs for posting the location to the bathrooms
 
 + Volunteers
     + How many will you need?
@@ -28,6 +35,14 @@ You should read through the guide for your specific event, as well as the "Overa
     + Tasks
     + Placement
     + Food/Water!
+    * Training
+        * Any data-recording volunteers (Start Line, finish Line, etc) must be trained.
+        * These volunteers need to know how we expect the data recorded
+        * Ensure that the volunteers know what you expect of them.
+        * Start-line volunteers may also be tasked with reminding the riders of the rules. Make sure you know what they should know, and give them a sheet describing what they should say.
+    * If your volunteers are being sent out onto the course (away from where the Director is staying), record the names, location, and phone number of each of your volunteers.
+        * Also provide each of these volunteers with your phone number, and details about who to call for an emergency
+            * Emergency details: what is the phone number to call for an emergency? what is the name of the venue? Where are we in the venue? What is the name + phone of the director?
 
 * Competition Logistics
     * Start list creation on reg website (UDA)

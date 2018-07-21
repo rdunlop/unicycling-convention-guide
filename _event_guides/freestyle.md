@@ -22,6 +22,12 @@ title:  "Freestyle"
 
 * Do you have a way for the judges to indicate that they are ready? (e.g. "flags")
 
+    * Do you have someone who will monitor the judges for their "readiness" and indicate to the announcer to announce the next competitor?
+
+        * This designated person should know their responsibilities:
+            * Monitor judges
+            * Monitor the time, and push judges to finish quickly to stay on schedule
+
 * Do you have a laptop for use by the DJ?
 
     * Does the DJ know how to use the sound system?
@@ -33,3 +39,5 @@ title:  "Freestyle"
 
     * Where is it?
     * When is it available?
+
+* When judging experts, all of the judges should have already judged age groups (See Rules 7C 4.3)

@@ -31,6 +31,8 @@ title:  "Unicon Traditions"
 
             * If so, be sure to plan for garbage cans/bags and for someone to empty the garbage cans in a timely fashion.
 
+            * If food is provided, make it clear whether people can attend the final party even if they are not eating food
+
 * Podiums
 
     * Having some sort of podiums for use when giving out awards is nice. They should be portable, so that they can be moved to where the awards are being given out.

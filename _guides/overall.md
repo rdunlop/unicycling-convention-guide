@@ -26,6 +26,10 @@ title:  "Overall Convention Questions"
         * It should not start without them present
     * There should be a well-stocked first-aid kit available at the Info Point
 
+* Venue Schedules
+
+    * When scheduling events at venues, you should check with the venue about contingencies for extending the reservation by 30 or 60 minutes. If a competition is running long, sometimes the best option is to pay a fee to extend the venue reservation so that we can finish the competition. Having discussed this with the venue in advance is ideal.
+
 * Internet access
 
     * Many different events require that there be continuous access to the internet. Even though a venue may report to have stable internet access, don’t trust that. Always have at least 1 fully-capable backup internet access method. We usually recommend having Mifi devices capable of supporting more connections than you need. (ie: at least 12 connections if you are doing 10-judges).
@@ -114,6 +118,8 @@ The program book is a very important part of a convention. It should be a good r
     * How to get there by unicycle
 
     * How to get there by public transport
+
+    * GPS coordinates of the meeting location, and a link to an online-map which has a pin (e.g. Google maps)
 
 * Maps of the courses (e.g. 10k, Marathon)
 
