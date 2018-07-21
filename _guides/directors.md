@@ -19,6 +19,14 @@ It is the director's job to be the ultimate decision maker for questions about a
 
         * They must be findable, and volunteers must know who the director is, in order to ask/answer questions.
 
+    * They should be present at the main competition area at least an hour before the competition begins, until the competition is completed.
+
+        * If possible, they should never leave the main competition/gathering area, so that they remain coordinating things. Delegate tasks to other volunteers as much as possible.
+
+        * If they must leave for some reason (e.g. to perform some task no one else can be trusted to do), they should leave a trusted/visible volunteer in charge at the main area. This trusted lieutenant should be able to answer most questions.
+
+        * If they must leave, they should still be contactable by cell phone, so that questions can be answered quickly.
+
 * The rules of the event must be followed
 
     * Depending on the event, the rulebook may provide multiple options for the rules which can be followed. The director should choose which set of rules will be followed, and should help communicate this clearly. (Ideally this will also be on the website in some way, as well as in the program book).
