@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build: .
+    command: bash -c "bundle install && bundle exec jekyll serve"
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/app
+      - gem_cache:/gems
+    tty: true
+    stdin_open: true
+volumes:
+  gem_cache: {}
