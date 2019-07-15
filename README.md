@@ -14,6 +14,12 @@ The files for the guides can be found in:
 
 To contribute to this guidebook, you have to sign up for a GitHub account, and then you can contribute either through suggesting edits on individual pages, or opening "Issues".
 
+## Local development environment
+
+Note: There isn't a clear way how to  serve jekyll contents from the docker environment. I hope to filx this eventually.
+
+You can update the gems with `docker-compose run app bash`
+
 ## How to see the website locally
 
 ### Installing Jekyll
